@@ -8,7 +8,7 @@ from ..engine.card import Card, CardColor
 from ..player.player import Player, PlayerAction
 
 
-class BotDavby(Player):
+class DavBot(Player):
     """
     An extremely rudimentary bot that makes a random move each turn.
     """
