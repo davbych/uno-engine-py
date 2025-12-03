@@ -105,7 +105,8 @@ Examples:
         bot_classes = {
             "RandomBot": RandomBot,
             "WildFirstBot": WildFirstBot, 
-            "WildLastBot": WildLastBot
+            "WildLastBot": WildLastBot,
+            "MyBot": MyBot
         }
         
         bots = []
@@ -230,4 +231,5 @@ def main():
 
 
 if __name__ == "__main__":
+
     main()
